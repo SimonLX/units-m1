@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<layout>
+    <adminhtml_sales_order_shipment_new>
+        <reference name="shipment_packaging">
+            <action method="setTemplate">
+                <template>silex/units/sales/order/shipment/packaging/popup.phtml</template>
+            </action>
+        </reference>
+    </adminhtml_sales_order_shipment_new>
+    <adminhtml_sales_order_shipment_view>
+        <reference name="shipment_packaging">
+            <action method="setTemplate">
+                <template>silex/units/sales/order/shipment/packaging/popup.phtml</template>
+            </action>
+        </reference>
+    </adminhtml_sales_order_shipment_view>
+</layout>

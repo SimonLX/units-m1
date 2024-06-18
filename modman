@@ -1,0 +1,6 @@
+app/code/community/Silex/Units/                           app/code/community/Silex/Units/
+app/design/adminhtml/base/default/layout/silex/units.xml  app/design/adminhtml/base/default/layout/silex/units.xml
+app/design/adminhtml/base/default/template/silex/units/   app/design/adminhtml/base/default/template/silex/units/
+app/etc/modules/Silex_Units.xml                           app/etc/modules/Silex_Units.xml
+app/locale/en_US/Silex_Units.csv                          app/locale/en_US/Silex_Units.csv
+app/locale/fr_FR/Silex_Units.csv                          app/locale/fr_FR/Silex_Units.csv
